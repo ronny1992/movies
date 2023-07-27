@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 dkdjs ghkdghkd\
 sdgdlgjdlg
 dgjdlgjdl;
+=======
+dgkjdngkdng
+gdkgndkg
+dgdklgndlg
+djldlg
+>>>>>>> foods
